@@ -1,4 +1,7 @@
 # TextSummarization
+
+Made by Jaime Mumbrú Checa z170203
+-----------------------------------------------------------------------------
 Create a summary automatically with three types of technologies.
 
 To work with the technologies and reproduce the results:
